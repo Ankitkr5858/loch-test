@@ -4,6 +4,7 @@ import BarChat from "./ui-icons/BarChat";
 import BellIcon from "./ui-icons/BellIcon";
 import CheckBox from "./ui-icons/CheckBox";
 import ClockIcon from "./ui-icons/ClockIcon";
+
 import bannerImage from "../assets/images/bgImage.png";
 import EyeIcon from "./ui-icons/EyeIcon";
 import LogoIcon from "./ui-icons/LogoIcon";
